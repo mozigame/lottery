@@ -1,0 +1,20 @@
+.homeLayout{
+  height: inherit;
+}
+.homelogo{
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top:0;
+  right: 50px;
+  background-color: green
+
+}
+.homeContent{
+  padding: 20px;
+  height: calc(100% - 64px);
+}
+.homeOpertion{
+  display: flex;
+justify-content: flex-start;
+}

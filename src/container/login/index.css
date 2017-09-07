@@ -1,0 +1,21 @@
+
+.Layout{
+  height: 100%;
+}
+.LayoutHeader{
+  height: 60px;
+}
+.LayoutContent{
+  height: calc(100% - 160px);
+  margin: 0 auto;
+  display: flex;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+}
+.LayoutFooter{
+  height: 100px;
+}
+.loginForm{
+  width: 100%
+}
